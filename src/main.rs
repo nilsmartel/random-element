@@ -1,5 +1,3 @@
-use std::f64::consts::E;
-
 fn print_help() -> ! {
     println!(
         "Usage:
